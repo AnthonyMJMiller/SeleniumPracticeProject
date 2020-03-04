@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67015" started-at="2020-03-04T10:53:22 EST" finished-at="2020-03-04T10:54:29 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67015" started-at="2020-03-04T10:53:22 EST" finished-at="2020-03-04T10:54:29 EST">
+      <class name="com.nx.externalLinksVerify.ExternalLinkCheckTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="7339" started-at="2020-03-04T10:53:22 EST" finished-at="2020-03-04T10:53:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyADPLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifyADPLink" duration-ms="1044" started-at="2020-03-04T10:53:29 EST" finished-at="2020-03-04T10:53:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyADPLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="585" started-at="2020-03-04T10:53:30 EST" finished-at="2020-03-04T10:53:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6762" started-at="2020-03-04T10:53:31 EST" finished-at="2020-03-04T10:53:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyBambooHrLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifyBambooHrLink" duration-ms="1013" started-at="2020-03-04T10:53:37 EST" finished-at="2020-03-04T10:53:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBambooHrLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="588" started-at="2020-03-04T10:53:38 EST" finished-at="2020-03-04T10:53:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6634" started-at="2020-03-04T10:53:39 EST" finished-at="2020-03-04T10:53:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyGitLabLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifyGitLabLink" duration-ms="994" started-at="2020-03-04T10:53:46 EST" finished-at="2020-03-04T10:53:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGitLabLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="586" started-at="2020-03-04T10:53:47 EST" finished-at="2020-03-04T10:53:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6746" started-at="2020-03-04T10:53:47 EST" finished-at="2020-03-04T10:53:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyJenkinsLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifyJenkinsLink" duration-ms="1042" started-at="2020-03-04T10:53:54 EST" finished-at="2020-03-04T10:53:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJenkinsLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="610" started-at="2020-03-04T10:53:55 EST" finished-at="2020-03-04T10:53:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6688" started-at="2020-03-04T10:53:56 EST" finished-at="2020-03-04T10:54:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyNexWikiLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifyNexWikiLink" duration-ms="968" started-at="2020-03-04T10:54:02 EST" finished-at="2020-03-04T10:54:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNexWikiLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="710" started-at="2020-03-04T10:54:03 EST" finished-at="2020-03-04T10:54:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6628" started-at="2020-03-04T10:54:04 EST" finished-at="2020-03-04T10:54:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOffice365Link()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifyOffice365Link" duration-ms="937" started-at="2020-03-04T10:54:11 EST" finished-at="2020-03-04T10:54:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOffice365Link -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="594" started-at="2020-03-04T10:54:12 EST" finished-at="2020-03-04T10:54:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6579" started-at="2020-03-04T10:54:12 EST" finished-at="2020-03-04T10:54:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySharepointLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifySharepointLink" duration-ms="962" started-at="2020-03-04T10:54:19 EST" finished-at="2020-03-04T10:54:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySharepointLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="591" started-at="2020-03-04T10:54:20 EST" finished-at="2020-03-04T10:54:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="setup" is-config="true" duration-ms="6590" started-at="2020-03-04T10:54:20 EST" finished-at="2020-03-04T10:54:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySonarQubeLink()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="verifySonarQubeLink" duration-ms="1014" started-at="2020-03-04T10:54:27 EST" finished-at="2020-03-04T10:54:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySonarQubeLink -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.nx.externalLinksVerify.ExternalLinkCheckTest@57536d79]" name="finishTest" is-config="true" duration-ms="773" started-at="2020-03-04T10:54:28 EST" finished-at="2020-03-04T10:54:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+      </class> <!-- com.nx.externalLinksVerify.ExternalLinkCheckTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
